@@ -1,0 +1,43 @@
+[
+  {
+    "outboundTag": "block",
+    "domain": [
+      "geosite:category-ads-all",
+      "geosite:win-spy",
+      "zebra.pushbullet.com"
+    ]
+  },
+  {
+    "outboundTag": "proxy",
+    "ip": [
+      "geoip:telegram"
+    ],
+    "domain": [
+      "geosite:gfw",
+      "apk.support",
+      "apk.center",
+      "appmedia.jp",
+      "assets.video.yahoo.net",
+      "download.bitcomet.com",
+      "cpubenchmark.net",
+      "cybersport.ru",
+      "edgecast-cf-prod.yahoo.net",
+      "goo.ne.jp",
+      "images-fe.ssl-images-amazon.com",
+      "i.pximg.net",
+      "m.media-amazon.com",
+      "passmark.com",
+      "s.yimg.com",
+      "tlanyan.me",
+      "userapi.com",
+      "us.yahoo.com",
+      "v2fly.org",
+      "video-api.yql.yahoo.com",
+      "vk.com"
+    ]
+  },
+  {
+    "port": "0-65535",
+    "outboundTag": "direct"
+  }
+]
