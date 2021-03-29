@@ -2,22 +2,22 @@
   {
     "outboundTag": "proxy",
     "domain": [
-      "#Exception of geosite:category-ads-all",
+      "# Exception of geosite:category-ads-all",
       "cdn.gotraffic.net"
     ]
   },
   {
     "outboundTag": "block",
     "domain": [
-      "#Default",
+      "# Default",
       "geosite:category-ads-all",
       "geosite:win-spy",
       "#",
-      "#Yahoo",
+      "# Yahoo",
       "consent.cmp.oath.com",
       "udc.yahoo.com",
       "#",
-      "#Others",
+      "# Others",
       "gacraft.jp",
       "popin.cc",
       "zebra.pushbullet.com",
@@ -30,22 +30,22 @@
       "geoip:telegram"
     ],
     "domain": [
-      "#Default",
+      "# Default",
       "geosite:gfw",
       "geosite:greatfire",
       "#",
-      "#Amazon",
+      "# Amazon",
       "m.media-amazon.com",
       "images-fe.ssl-images-amazon.com",
       "#",
-      "#Yahoo",
+      "# Yahoo",
       "us.yahoo.com",
       "video-api.yql.yahoo.com",
       "edgecast-cf-prod.yahoo.net",
       "assets.video.yahoo.net",
       "s.yimg.com",
       "#",
-      "#Others",
+      "# Others",
       "apk.center",
       "apk.support",
       "appmedia.jp",
